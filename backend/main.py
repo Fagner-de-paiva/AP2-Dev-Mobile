@@ -40,3 +40,25 @@ def get_stickers():
     stickers = db.query(Sticker).all()
 
     return stickers
+
+@app.delete("/stickers/{sticker_id}")
+def delete_sticker(sticker_id: int):
+
+    db: Session = SessionLocal()
+
+    sticker = db.query(Sticker).filter(
+        Sticker.id == sticker_id
+    ).first()
+
+    if sticker:
+
+        db.delete(sticker)
+        db.commit()
+
+    return {
+        "message": "Figurinha deletada"
+    }
+
+    return {
+        "message": "Figurinha não encontrada"
+    }
