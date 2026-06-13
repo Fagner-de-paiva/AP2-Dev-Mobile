@@ -105,7 +105,7 @@ http://127.0.0.1:8000/docs
 
 ### Splash Screen
 
-<img width="200" height="500" alt="Splash-Screen" src="https://github.com/user-attachments/assets/f2789c7a-fa44-42c4-adac-14180dad8702" />
+<img width="200" height="400" alt="Splash-Screen" src="https://github.com/user-attachments/assets/f2789c7a-fa44-42c4-adac-14180dad8702" />
 
 
 
