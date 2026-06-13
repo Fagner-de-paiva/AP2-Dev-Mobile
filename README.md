@@ -111,7 +111,7 @@ http://127.0.0.1:8000/docs
 
 ### Tela Principal
 
-<img width="200" height="500" alt="Tela-Principal" src="https://github.com/user-attachments/assets/29ec8ccd-8e54-40b0-ba3a-dbe95ab64ef7" />
+<img width="200" height="350" alt="Tela-Principal" src="https://github.com/user-attachments/assets/29ec8ccd-8e54-40b0-ba3a-dbe95ab64ef7" />
 
 
 ### Minhas Figurinhas
