@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Banco SQLite
+*.db
+
+# Android
+.gradle/
+.idea/
+build/
+local.properties
